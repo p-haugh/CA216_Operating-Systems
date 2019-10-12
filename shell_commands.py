@@ -1,7 +1,3 @@
-# !/usr/bin/env python3
-# Name: Patrick Alan Haugh
-# ID: 17360196
-
 import cmd, os, sys, threading, multiprocessing, subprocess
 lock = threading.Lock()
 
